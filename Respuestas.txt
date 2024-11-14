@@ -1,0 +1,199 @@
+ Preguntas 
+Fecha: nov-13-2024 22:14:26
+IP del cliente: 127.0.0.1
+
+Pregunta 1: �Cu�l es el continente m�s grande?
+Respuesta del cliente: jegu
+Respuesta correcta: asia
+�Fue correcta? No
+
+Pregunta 2: �Cu�l es la forma qu�mica del agua?
+Respuesta del cliente: iervnri
+Respuesta correcta: h2o
+�Fue correcta? No
+
+Pregunta 3: �Cu�l es el r�o m�s grande en Am�rica del Sur?
+Respuesta del cliente: rtevlbtrb
+Respuesta correcta: amazonas
+�Fue correcta? No
+
+Pregunta 4: �En qu� a�o lleg� el hombre a la Luna?
+Respuesta del cliente: gbreurub
+Respuesta correcta: 1969
+�Fue correcta? No
+
+Pregunta 5: �Cu�l es el nombre del canal principal que atraviesa Venecia?
+Respuesta del cliente: reihbru
+Respuesta correcta: gran canal
+�Fue correcta? No
+
+=== RESUMEN FINAL ===
+Puntaje total: 0/5
+Porcentaje de acierto: 0,0%
+================================
+
+ Preguntas 
+Fecha: nov-13-2024 22:19:59
+IP del cliente: 127.0.0.1
+
+Pregunta 1: �Cu�l es el continente m�s grande?
+Respuesta del cliente: lerfhueghe
+Respuesta correcta: asia
+�Fue correcta? No
+
+Pregunta 2: �Cu�l es la forma qu�mica del agua?
+Respuesta del cliente: trgwtgub
+Respuesta correcta: h2o
+�Fue correcta? No
+
+Pregunta 3: �Cu�l es el r�o m�s grande en Am�rica del Sur?
+Respuesta del cliente: wrbgtuwt
+Respuesta correcta: amazonas
+�Fue correcta? No
+
+Pregunta 4: �En qu� a�o lleg� el hombre a la Luna?
+Respuesta del cliente: rltgugitr
+Respuesta correcta: 1969
+�Fue correcta? No
+
+Pregunta 5: �Cu�l es el nombre del canal principal que atraviesa Venecia?
+Respuesta del cliente: rwtugtgu
+Respuesta correcta: gran canal
+�Fue correcta? No
+
+=== RESUMEN FINAL ===
+Puntaje total: 0/20
+================================
+
+ Preguntas 
+Fecha: nov-13-2024 22:21:45
+IP del cliente: 127.0.0.1
+
+Pregunta 1: �Cu�l es el continente m�s grande?
+Respuesta del cliente: lerughoweru
+Respuesta correcta: asia
+�Fue correcta? No
+
+Pregunta 2: �Cu�l es la forma qu�mica del agua?
+Respuesta del cliente: egwrogqeughpqe
+Respuesta correcta: h2o
+�Fue correcta? No
+
+Pregunta 3: �Cu�l es el r�o m�s grande en Am�rica del Sur?
+Respuesta del cliente: erougoqerug
+Respuesta correcta: amazonas
+�Fue correcta? No
+
+Pregunta 4: �En qu� a�o lleg� el hombre a la Luna?
+Respuesta del cliente: ekugberugh
+Respuesta correcta: 1969
+�Fue correcta? No
+
+Pregunta 5: �Cu�l es el nombre del canal principal que atraviesa Venecia?
+Respuesta del cliente: ebgqeuhg
+Respuesta correcta: gran canal
+�Fue correcta? No
+
+=== RESUMEN FINAL ===
+Puntaje total: 0/20
+================================
+
+ Preguntas 
+Fecha: nov-13-2024 22:23:14
+IP del cliente: 127.0.0.1
+
+Pregunta 1: �Cu�l es el continente m�s grande?
+Respuesta del cliente: erufheough
+Respuesta correcta: asia
+�Fue correcta? No
+
+Pregunta 2: �Cu�l es la forma qu�mica del agua?
+Respuesta del cliente: qeufoghqe
+Respuesta correcta: h2o
+�Fue correcta? No
+
+Pregunta 3: �Cu�l es el r�o m�s grande en Am�rica del Sur?
+Respuesta del cliente: fyigrgew
+Respuesta correcta: amazonas
+�Fue correcta? No
+
+Pregunta 4: �En qu� a�o lleg� el hombre a la Luna?
+Respuesta del cliente: geoghoegh
+Respuesta correcta: 1969
+�Fue correcta? No
+
+Pregunta 5: �Cu�l es el nombre del canal principal que atraviesa Venecia?
+Respuesta del cliente: ewrogewough
+Respuesta correcta: gran canal
+�Fue correcta? No
+
+=== RESUMEN FINAL ===
+Puntaje total: 0/20
+================================
+
+ Preguntas 
+Fecha: nov-13-2024 22:23:42
+IP del cliente: 127.0.0.1
+
+Pregunta 1: �Cu�l es el continente m�s grande?
+Respuesta del cliente: asia
+Respuesta correcta: asia
+�Fue correcta? S�
+
+Pregunta 2: �Cu�l es la forma qu�mica del agua?
+Respuesta del cliente: h2o
+Respuesta correcta: h2o
+�Fue correcta? S�
+
+Pregunta 3: �Cu�l es el r�o m�s grande en Am�rica del Sur?
+Respuesta del cliente: amazonas
+Respuesta correcta: amazonas
+�Fue correcta? S�
+
+Pregunta 4: �En qu� a�o lleg� el hombre a la Luna?
+Respuesta del cliente: 1900
+Respuesta correcta: 1969
+�Fue correcta? No
+
+Pregunta 5: �Cu�l es el nombre del canal principal que atraviesa Venecia?
+Respuesta del cliente: ifuher
+Respuesta correcta: gran canal
+�Fue correcta? No
+
+=== RESUMEN FINAL ===
+Puntaje total: 12/20
+================================
+
+ Preguntas 
+Fecha: nov-13-2024 22:49:32
+IP del cliente: 192.168.1.49
+
+Pregunta 1: �Cu�l es el continente m�s grande?
+Respuesta del cliente: asia
+Respuesta correcta: asia
+�Fue correcta? S�
+
+Pregunta 2: �Cu�l es la forma qu�mica del agua?
+Respuesta del cliente: h2o
+Respuesta correcta: h2o
+�Fue correcta? S�
+
+Pregunta 3: �Cu�l es el r�o m�s grande en Am�rica del Sur?
+Respuesta del cliente: amazonas
+Respuesta correcta: amazonas
+�Fue correcta? S�
+
+Pregunta 4: �En qu� a�o lleg� el hombre a la Luna?
+Respuesta del cliente: 1900
+Respuesta correcta: 1969
+�Fue correcta? No
+
+Pregunta 5: �Cu�l es el nombre del canal principal que atraviesa Venecia?
+Respuesta del cliente: nxweoihcwe
+Respuesta correcta: gran canal
+�Fue correcta? No
+
+=== RESUMEN FINAL ===
+Puntaje total: 12/20
+================================
+
